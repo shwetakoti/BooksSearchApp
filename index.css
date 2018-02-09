@@ -1,0 +1,48 @@
+body * {
+  box-sizing: border-box;
+  font-family: 'Roboto', sans-serif;
+}
+
+body {
+  background: url(http://whytoread.com/wp-content/uploads/2015/05/most-influential-books.jpg) no-repeat;
+  background-size: cover;
+  color: black;
+  text-align: center;
+ }
+
+input {
+  height: 40px;
+  width:  300px;
+  font-size: 18px;
+}
+
+button {
+  height: 40px ;
+  font-size: 18px;
+  font-weight: bolder;
+}
+img {
+  height: 200px;
+  width:  150px;
+  margin-bottom: 20px;
+}
+
+h5 {
+  color: #0000FF;
+  font-size: 18px;
+  font-weight: bolder;
+}
+
+a {
+  color: #0000FF;
+}
+
+.next-books,.prev-books {
+  float :right;
+  border-radius: 8px;
+  margin-right: 15px;
+}
+
+.hover:hover{
+  background-color:#E9967A;
+}
