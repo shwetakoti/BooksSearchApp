@@ -8,5 +8,5 @@ Users can click on "next" and "previous" buttons to navigate through the search 
 # Technologies
 HTML/CSS/Javascript/JQUERY
 
-# API
-Google Books API
+# API Used
+Google Books API - https://www.googleapis.com/books/v1/volumes
